@@ -1,0 +1,2 @@
+# WhitelistSmartContract
+To draft
